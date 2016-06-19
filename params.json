@@ -1,6 +1,6 @@
 {
   "name": "3dshb",
   "tagline": "Repository for 3DS Homebrew",
-  "body": "### Welcome to 3DSHB\r\nThis repository will contain mirrors and QR codes for all CIA-format homebrew apps I can find. You can download them all, or you can use the QR Codes below.\r\n\r\n***\r\n\r\n\r\n\r\n### Apps\r\n\r\n<details> \r\n  <summary>CTRXplorer v0.9.6 (File Manager) </summary>\r\n   [](https://github.com/gnmmarechal/3dshb/blob/master/CIA/utils.d0k3.ctrxplorer.png?raw=true) \r\n</details>\r\n\r\n<details> \r\n  <summary>NASA v1.6 (CIA Manager) </summary>\r\n   [](https://github.com/gnmmarechal/3dshb/blob/master/CIA/utils.rinnegatamante.nasa.png?raw=true) \r\n</details>\r\n\r\n\r\n",
+  "body": "### Welcome to 3DSHB\r\nThis repository will contain mirrors and QR codes for all CIA-format homebrew apps I can find. You can download them all, or you can use the QR Codes below.\r\n\r\n***\r\n\r\n\r\n\r\n### Apps\r\n\r\n<details> \r\n  <summary>CTRXplorer v0.9.6 (File Manager) </summary>\r\n  <img src=\"https://github.com/gnmmarechal/3dshb/blob/master/CIA/utils.d0k3.ctrxplorer.png?raw=true\"/>\r\n</details>\r\n\r\n<details> \r\n  <summary>NASA v1.6 (CIA Manager) </summary>\r\n   <img src=\"https://github.com/gnmmarechal/3dshb/blob/master/CIA/utils.rinnegatamante.nasa.png?raw=true\"/>\r\n</details>\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
