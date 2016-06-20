@@ -1,3 +1,5 @@
 * CTRXplorer v0.9.6 (d0k3)
-* NASA v1.6 (Rinnegatamante)
+* FreeShop v1.2.1 (TheCruel)
+* JK's Save Manager (JK_)
 * LumaUpdater v1.4.0 (Hamcha)
+* NASA v1.6 (Rinnegatamante)
