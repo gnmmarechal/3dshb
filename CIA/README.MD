@@ -3,3 +3,5 @@
 * JK's Save Manager (JK_)
 * LumaUpdater v1.4.0 (Hamcha)
 * NASA v1.6 (Rinnegatamante)
+* TWLSaveTool v1.0 (TuxSH)
+
