@@ -1,5 +1,5 @@
 * CTRXplorer v0.9.6 (d0k3)
-* FreeShop v1.2.1 (TheCruel)
+* FreeShop v1.2.2 (TheCruel)
 * Gimme 300 Coins v1a (Chelsea Fantasy)
 * JK's Save Manager v3/25/2016 (JK_)
 * LumaUpdater v1.4.0 (Hamcha)
